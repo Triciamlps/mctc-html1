@@ -1,0 +1,50 @@
+#main {
+  background-color: #FFF2BD;
+  font-family: Trebuchet MS;
+}
+#title h1{
+  background-color: rgb(119, 110, 153);
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-size: 50px;
+}
+#title h2{ 
+  text-align: center;
+  border: groove 10px rgb(26, 22, 26);
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#title p{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 15px;
+}
+
+#image {
+  display: block;
+  max-width: 100%; 
+  height: auto;
+  border: 10px solid rgb(30, 28, 30);
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  }
+#tribute-link{
+  display: block;
+  background-color: rgb(218, 127, 125);
+  padding: 4px;
+  color: white;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
